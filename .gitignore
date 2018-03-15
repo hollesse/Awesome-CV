@@ -7,6 +7,8 @@
 *.fls
 *.out
 *.toc
+*.gz
+*.synctex(busy)
 
 ## Intermediate documents:
 *.dvi
